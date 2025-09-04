@@ -33,12 +33,14 @@ To reproduce or extend the experiments:
    git clone https://github.com/FikriAfifK/FoodClassification.git
 
 2. Navigate into the project directory:
+   ```bash
    cd FoodClassification
 
-3. Launch Jupyter Notebook:
+4. Launch Jupyter Notebook:
+   ```bash
    jupyter notebook
 
-4. Open the notebook of your choice and run the cells step by step.
+6. Open the notebook of your choice and run the cells step by step.
 
 ---
 
